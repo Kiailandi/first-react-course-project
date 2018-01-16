@@ -1,0 +1,13 @@
+{
+  "name": "first-react-course-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Kiailandi/first-react-course-project",
+  "author": "Tommaso Montefusco <Tommaso.Montefusco@hotmail.it>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "babel-preset-env": "^1.6.1",
+    "babel-preset-react": "^6.24.1"
+  }
+}
