@@ -14,5 +14,6 @@ First project of https://completereactcourse.com/
 | JSX Expressions | :heavy_check_mark: |
 | Conditional Rendering in JSX | :heavy_check_mark: |
 | ES6 Aside: const and let | :heavy_check_mark: |
-| ES6 Aside: Arrow Functions | |
+| ES6 Aside: Arrow Functions | :heavy_check_mark: |
+| ES6 Aside: Arrow Functions Part II | :heavy_check_mark: |
 | [...] | [...] |
